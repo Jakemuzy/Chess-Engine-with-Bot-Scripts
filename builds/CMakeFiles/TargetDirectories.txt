@@ -1,3 +1,0 @@
-C:/Users/jmuzy/OneDrive/Desktop/Projects/Chess/builds/CMakeFiles/Chess.dir
-C:/Users/jmuzy/OneDrive/Desktop/Projects/Chess/builds/CMakeFiles/ALL_BUILD.dir
-C:/Users/jmuzy/OneDrive/Desktop/Projects/Chess/builds/CMakeFiles/ZERO_CHECK.dir
